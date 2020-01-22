@@ -15,5 +15,4 @@ func CornWork() {
 
 func MessageSendCheckWork() {
 	common.LogrusLogger.Info("message send check work start")
-
 }
