@@ -1,0 +1,17 @@
+{
+  "address": "172.31.175.71",
+  "consul_addr": "http://122.51.145.198",
+  "consul_port": 8500,
+  "db_uri": "root:mengwei@(122.51.145.198:3306)/test?parseTime=true&loc=Local",
+  "jaeger_addr": "122.51.145.198:5775",
+  "log_file": "log/project.log",
+  "port": 9060,
+  "grpc_port": 9061,
+  "retry_max": 3,
+  "retry_timeout": 500,
+  "service_name": "carphone_v1",
+  "redis_host": "122.51.145.198",
+  "redis_password": "mengwei",
+  "redis_port": "6379",
+  "redis_db": 2
+}
